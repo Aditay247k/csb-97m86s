@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://aditay247k.github.io/csb-97m86s/static/css/main.e5ba39a8.chunk.css",
+    "main.js": "https://aditay247k.github.io/csb-97m86s/static/js/main.6cae6e2c.chunk.js",
+    "main.js.map": "https://aditay247k.github.io/csb-97m86s/static/js/main.6cae6e2c.chunk.js.map",
+    "runtime-main.js": "https://aditay247k.github.io/csb-97m86s/static/js/runtime-main.8ef0284d.js",
+    "runtime-main.js.map": "https://aditay247k.github.io/csb-97m86s/static/js/runtime-main.8ef0284d.js.map",
+    "static/js/2.1895aae6.chunk.js": "https://aditay247k.github.io/csb-97m86s/static/js/2.1895aae6.chunk.js",
+    "static/js/2.1895aae6.chunk.js.map": "https://aditay247k.github.io/csb-97m86s/static/js/2.1895aae6.chunk.js.map",
+    "index.html": "https://aditay247k.github.io/csb-97m86s/index.html",
+    "static/css/main.e5ba39a8.chunk.css.map": "https://aditay247k.github.io/csb-97m86s/static/css/main.e5ba39a8.chunk.css.map",
+    "static/js/2.1895aae6.chunk.js.LICENSE.txt": "https://aditay247k.github.io/csb-97m86s/static/js/2.1895aae6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ef0284d.js",
+    "static/js/2.1895aae6.chunk.js",
+    "static/css/main.e5ba39a8.chunk.css",
+    "static/js/main.6cae6e2c.chunk.js"
+  ]
+}
